@@ -45,6 +45,14 @@ I'm a 4th-year **B.Tech CSE student** passionate about building practical softwa
 
 ## 🚀 Featured Projects
 
+### 📊 AI Business Analytics Dashboard
+
+An interactive AI-powered business analytics platform that allows users to upload CSV/Excel datasets and automatically explore, analyze, and understand their business data.
+
+**Tech:** Python • Streamlit • Pandas • Scikit-learn • XGBoost • Matplotlib • OpenPyXL
+
+---
+
 ### 🧠 AlgoRecall — Algorithm Retention Platform
 
 A platform designed to help developers retain DSA algorithms through **active recall, scheduled revisions, reminders, analytics, and revision sessions**.
@@ -89,6 +97,13 @@ I regularly practice DSA and competitive programming.
 * Shortest Path Algorithms
 
 ---
+## 🧠 LeetCode & DSA
+
+<a href="https://leetcode.com/u/nav_neet2603/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+</a>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/nav_neet2603?theme=dark&font=baloo)
 
 ## 📚 Currently Learning
 
@@ -122,16 +137,13 @@ I'm currently exploring how **AI + automation + software development** can be co
 
 ## 📊 GitHub Stats
 
-![Navneet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=navneet-nk&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/navneet-kumar-779188318)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navneet-kumar-779188318/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/navneet-nk)
 
 📧 Email: navneet.maurya2603@gmail.com
